@@ -1,51 +1,34 @@
-# Omarchy Theme: Rustleaf
+# Rustleaf - Stylish modern theme for Omarchy
+
+A stylish and modern theme that brings sleek desktop views, smooth walker menus, and elegant keybinding previews to your desktop environment. Rustleaf is perfect for users who want a clean and aesthetic desktop experience with polished visual elements. Built specifically for Omarchy, this theme provides consistent styling across your window manager, terminal, applications, and system components.
 
 **Current Omarchy Version:** All versions  
-**Update Status:** Active  
+**Update Status:** Active
 
-Rustleaf is a stylish, modern theme for Omarchy, featuring sleek desktop views, smooth walker menus, and elegant keybinding previews. Perfect for users who want a clean and aesthetic desktop experience.
+## Gallery
 
----
+| Clean desktop with floating windows |
+| :--: |
+| ![desktop](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/1.png) |
 
-## Desktop Previews
+| Multi-window workspace layout |
+| :--: |
+| ![workspace](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/2.png) |
 
-There are **3 desktop views** available:
+| Discord & Spotify interface |
+| :--: |
+| ![terminal](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/3.png) |
 
-- **Desktop Preview 1**  
-![Desktop1](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Desktop1.png)
+| Lockscreen interface |
+| :--: |
+| ![lockscreen](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/lockscreen.png) |
 
-- **Desktop Preview 2**  
-![Desktop2](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Desktop2.png)
-
-- **Desktop Preview 3**  
-![Desktop3](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Desktop3.png)
-
----
-
-## Walker Menu Previews
-
-- **Walker (Menu) Preview**  
-![Walker1](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Walker1.png)
-
-- **Walker (App Menu) Preview**  
-![Walker2](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Walker2.png)
-
-- **Walker (Keybinding) Preview**  
-![Walkerkb](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/9c143d07a975dc1377a8fc883b961c9850642ea1/Media/Walkerkb.png)
-
----
-
-## Video Preview
-
-Check out a video demonstration of the Rustleaf theme:  
-
-[![Rustleaf Video Preview](https://user-images.githubusercontent.com/569b3f72-7970-4b0a-bbb0-7d4a20aecfc6)](https://github.com/user-attachments/assets/569b3f72-7970-4b0a-bbb0-7d4a20aecfc6)
-
----
+| Omarchy menu | Application menu |
+| :--: | :--: |
+| ![omarchy-menu](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/omarchy%20menu.png) | ![app-menu](https://github.com/tahfizhabib/omarchy-rustleaf-theme/blob/b5d26baa8e6fa8080c68e31e823211ffc5065533/Media/app%20menu.png) |
 
 ## Installation
 
-To install the Rustleaf theme in Omarchy, run:
-
 ```bash
 omarchy-theme-install https://github.com/tahfizhabib/omarchy-rustleaf-theme
+```
