@@ -2,7 +2,7 @@
 
 A stylish and modern theme that brings sleek desktop views, smooth walker menus, and elegant keybinding previews to your desktop environment. Rustleaf is perfect for users who want a clean and aesthetic desktop experience with polished visual elements. Built specifically for Omarchy, this theme provides consistent styling across your window manager, terminal, applications, and system components.
 
-**Current Omarchy Version:** All versions  
+**Current Omarchy Version:** 3.2 (Updated today)
 **Update Status:** Active
 
 ## Gallery
